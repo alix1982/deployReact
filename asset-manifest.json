@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/deployReact/static/css/main.7354f458.css",
+    "main.js": "/deployReact/static/js/main.0b8838aa.js",
+    "static/media/Inter-Bold.woff?v=3.19": "/deployReact/static/media/Inter-Bold.93c1301bd9f486c573b3.woff",
+    "static/media/Inter-Black.woff?v=3.19": "/deployReact/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff?v=3.19": "/deployReact/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Bold.woff2?v=3.19": "/deployReact/static/media/Inter-Bold.ec64ea577b0349e055ad.woff2",
+    "static/media/Inter-Black.woff2?v=3.19": "/deployReact/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/deployReact/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/logo.svg": "/deployReact/static/media/logo.9b50a7261a8951eac81ea25deb03686d.svg",
+    "static/media/element-like.svg": "/deployReact/static/media/element-like.cbed5331d270056562b2.svg",
+    "static/media/element-like-black.svg": "/deployReact/static/media/element-like-black.ccef5d79def714888048.svg",
+    "index.html": "/deployReact/index.html",
+    "static/media/element-del.svg": "/deployReact/static/media/element-del.e3c42771bff3aaa52f76.svg",
+    "static/media/element-like-active.svg": "/deployReact/static/media/element-like-active.35948469632d0421d697.svg",
+    "static/media/element-like-black-active.svg": "/deployReact/static/media/element-like-black-active.18b183e92e94051f28f3.svg",
+    "main.7354f458.css.map": "/deployReact/static/css/main.7354f458.css.map",
+    "main.0b8838aa.js.map": "/deployReact/static/js/main.0b8838aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7354f458.css",
+    "static/js/main.0b8838aa.js"
+  ]
+}
